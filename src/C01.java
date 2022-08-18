@@ -3,5 +3,8 @@ public class C01 {
         System.out.println("1.Deneme ");
         System.out.println("1.Deneme Github");
         System.out.println("1.Deneme mehmet");
+        System.out.println("1.Deneme master");
+
+
     }
 }
